@@ -54,7 +54,7 @@ python main_mac.py
 
 3. **Controls**
 
-   - **Move Left/Right:** Move your **chest (torso)** left or right.
+   - **Move Left/Right:** Move your **chest (torso)** left or right. In the camera view, you can see grid lines. Moving from one grid section to another will make you move left or right.
    - **Jump:** Raise both your wrists above your chest level.
    - **Duck:** Lower your shoulders.
 
