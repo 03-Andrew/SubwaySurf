@@ -62,7 +62,10 @@ python main_mac.py
    - A small **cross** will appear on your chest position.
    - Dots will appear on your wrists to guide you visually.
 
-4. **Exit**
+   Sample:
+   - [https://drive.google.com/file/d/1dQ7biiry_VueLxbtAYdCPBGNix-27Q5W/view](https://drive.google.com/file/d/1dQ7biiry_VueLxbtAYdCPBGNix-27Q5W/view)
+
+5. **Exit**
 
    - Press `ESC` key anytime to close the app.
 
@@ -72,7 +75,9 @@ python main_mac.py
 
 - Ensure you have **good lighting** for accurate pose detection.
 - Works best when you sit or stand in front of your webcam with minimal background clutter.
-- For Mac users, sometimes you may need to give **camera permissions** to Terminal.
+- For Mac users, sometimes you may need to give **camera permissions** to Terminal. You also need to allow your code editor or ide to have control over your computer.
+  - In settings go to Privacy and Security -> accessibility -> enable ide/code editor
+      
 
 ---
 
