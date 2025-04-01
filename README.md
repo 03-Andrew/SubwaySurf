@@ -10,7 +10,7 @@ This app uses your webcam and chest + wrist positions to simulate movement contr
 ```
 project/
 ├── src/
-│   └── main_mac.py   # Main Python application
+│   └── main.py   # Main Python application
 ├── README.md
 └── requirements.txt  # Optional: Dependencies list
 ```
@@ -34,7 +34,7 @@ Navigate to the project folder and run:
 
 ```bash
 cd src
-python main_mac.py
+python main.py
 ```
 
 ---
@@ -50,7 +50,7 @@ python main_mac.py
 
    - Make sure the browser window with the game is selected (click on the game screen once).
    - Then run the Python app:  
-     `python src/main_mac.py`
+     `python src/main.py`
 
 3. **Controls**
 
