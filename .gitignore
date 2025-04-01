@@ -1,3 +1,6 @@
 src/build
 src/dist
 src/main_mac.spec
+src/__pycache__/
+
+
