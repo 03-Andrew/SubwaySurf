@@ -21,7 +21,7 @@ project/
 
 ### 1. Install Dependencies
 
-Make sure you have Python 3.x installed.  
+Make sure you have Python 3.x installed. (3.13 wont work) 
 In your terminal:
 
 ```bash
